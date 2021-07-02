@@ -1,0 +1,1 @@
+twint -s "just setting up my bitclout" --since 2021-03-01 --verified -o verified_promotion.csv --csv
